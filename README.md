@@ -1,2 +1,2 @@
-# Mnotfo this is my portfolio website.
+# Biology study notes.
 
